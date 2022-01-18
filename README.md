@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, je suis HydraDev</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">Passionné par la programmation dans le domaine du web.</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/940/940188.png"/> Développeur Français</h3>
 
 
 ## 🙋‍♂️ About Me
