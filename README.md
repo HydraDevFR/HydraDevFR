@@ -13,7 +13,7 @@
 
 - 👯 Je cherche à collaborer sur des **projets OpenSource**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 Voici mon adresse mail perso **contact@hydradev.fr**
 
 - ⚡ Préfere les jeux d'aventures multijoueurs.
 
