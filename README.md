@@ -17,7 +17,7 @@
 
 - ⚡ Préfere les jeux d'aventures multijoueurs.
 
-## 🚀 Langages et outils:
+## 🚀 Langages et outils
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
