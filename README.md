@@ -35,7 +35,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
 <br/>
 
 <p align="center">
@@ -44,7 +44,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Mes statistiques Github
 
   <br/>
     <a href="https://github.com/HydraDevFR/github-readme-stats"><img alt="Statistiques Github de HydraDev" src="https://github-readme-stats.vercel.app/api?username=HydraDevFR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -61,15 +61,15 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Liens utiles
 <p align="left">
 
-<a href = "https://discord.gg/zJ2S3CCzwd"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png"/></a>
+<a href = "https://discord.gg/zJ2S3CCzwd"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="55"/></a>
 <a href = "https://www.youtube.com/channel/UCzxfSqm0cGsFT-D6HwSP2dw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Vues et abonnés
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=HydraDevFR">
 </a>
