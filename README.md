@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **subham.raoniar@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Préfere les jeux d'aventures multijoueurs.
 
 ## 🚀 Langages et outils:
 
@@ -30,7 +30,6 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
@@ -64,7 +63,7 @@
 ## Liens utiles
 <p align="left">
 
-<a href = "https://discord.gg/zJ2S3CCzwd"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="55"/></a>
+<a href = "https://discord.gg/zJ2S3CCzwd"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a>
 <a href = "https://www.youtube.com/channel/UCzxfSqm0cGsFT-D6HwSP2dw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
